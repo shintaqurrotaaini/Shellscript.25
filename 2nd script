@@ -1,0 +1,10 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use “gcloud config set project [PROJECT_ID]”
+g32_shintaqurrotaaini@cloudshell:~$ cat latihan1.sh
+#!/bin/bash
+echo "buat direktori latihanscript dan file coba" echo
+"====================================================="
+mkdir
+latihanscript cd
+latihanscript/
+touch coba
